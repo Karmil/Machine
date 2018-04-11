@@ -1,0 +1,16 @@
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Web.deps.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Web.runtimeconfig.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Web.runtimeconfig.dev.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Web.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Web.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Web.csprojResolveAssemblyReference.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Web.csproj.CoreCompileInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Web.AssemblyInfoInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Web.AssemblyInfo.cs
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Web.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Web\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Web.pdb

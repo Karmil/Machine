@@ -1,0 +1,16 @@
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\Distributeur.UnitTests.deps.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\Distributeur.UnitTests.runtimeconfig.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\Distributeur.UnitTests.runtimeconfig.dev.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\Distributeur.UnitTests.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\Distributeur.UnitTests.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\obj\Debug\netcoreapp2.0\Distributeur.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\obj\Debug\netcoreapp2.0\Distributeur.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\obj\Debug\netcoreapp2.0\Distributeur.UnitTests.AssemblyInfoInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\obj\Debug\netcoreapp2.0\Distributeur.UnitTests.AssemblyInfo.cs
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\obj\Debug\netcoreapp2.0\Distributeur.UnitTests.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\obj\Debug\netcoreapp2.0\Distributeur.UnitTests.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distributeur.UnitTests\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.pdb

@@ -1,0 +1,14 @@
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.deps.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.runtimeconfig.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.runtimeconfig.dev.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\bin\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\obj\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.csprojResolveAssemblyReference.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\obj\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.csproj.CoreCompileInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\obj\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.AssemblyInfoInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\obj\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.AssemblyInfo.cs
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\obj\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Distrubuteur.FunctionalTests\obj\Debug\netcoreapp2.0\Distrubuteur.FunctionalTests.pdb

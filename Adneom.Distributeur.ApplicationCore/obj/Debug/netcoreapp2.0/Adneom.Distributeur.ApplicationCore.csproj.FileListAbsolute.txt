@@ -1,0 +1,9 @@
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.deps.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\obj\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\obj\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\obj\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.AssemblyInfo.cs
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\obj\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\obj\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.ApplicationCore\obj\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.csprojResolveAssemblyReference.cache

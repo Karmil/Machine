@@ -1,0 +1,11 @@
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.deps.json
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\bin\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\bin\Debug\netcoreapp2.0\Adneom.Distributeur.ApplicationCore.pdb
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.csprojResolveAssemblyReference.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.AssemblyInfo.cs
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.dll
+C:\Users\OmarKarmil\source\repos\Solution.Adneom.Distributeur\Adneom.Distributeur.Infrastucture\obj\Debug\netcoreapp2.0\Adneom.Distributeur.Infrastucture.pdb
